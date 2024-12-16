@@ -1,1 +1,1 @@
-Criando rotas de registro e login de usuário com criptografia de senha e autenticação de token jwt, e para complementar foi feito o processo de validação e decodificação de token. Pŕoximo passo e fazer o front se conectar com a API
+
